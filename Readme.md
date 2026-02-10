@@ -105,18 +105,6 @@ Classifies messages into:
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **Public Frontend (Cloud Run):**  
-> _Add your deployed frontend URL here_
-
-🔗 **Backend API (Cloud Run):**  
-> _Add your backend URL here_
-
-The system is publicly accessible and requires no login.
-
----
-
 ## 🧪 Example
 
 Your account is locked. Click here immediately to verify.
