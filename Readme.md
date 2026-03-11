@@ -130,7 +130,13 @@ Your account is locked. Click here immediately to verify.
 	•	Trust & Safety systems for platforms
 	•	AI prompt-injection defense
 	•	Cybersecurity education and awareness
+## Contributors
 
+- **Pamala Madhumitha Yadav**
+- **Munisai Kannemmagari**
+- **Sankeesa Anshu**
+- **Amith Reddy Karre**
+  
 ## License
 
 MIT License
